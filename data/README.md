@@ -1,1 +1,1 @@
-This folder contains the health insurance dataset used for the project.
+This folder contains the Sales dataset used for the project.
